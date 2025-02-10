@@ -6,6 +6,7 @@ All lines of code are _handmade_. They are not perfect. But they work. Just look
 * <strong>MyLogger</strong>          : a lightweight PL/SQL logger  
 * <strong>MyTimer</strong>           : easy-to-use timer for PL/SQL
 * <strong>MyutPLSQL-template</strong>: template to create unit tests
+* <strong>MyOracleSQL</strong>       : useful sql statements that make life easier
 
 _Didn't find anything?_ 
 <br>Come back tomorrow - maybe there's something new for you.
